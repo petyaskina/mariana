@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>В крови горит огонь желанья</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>В крови горит огонь желанья</edition>
+        <respStmt>
+          <resp>Editor</resp>
+          <name>Вышки Студент</name>
+        </respStmt>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <sourceDoc>
+    <surfaceGrp>
+      <surface n="Новый слой">
+        <graphic url="http://textograf.ru/api/Manuscripts/1b912136-d753-4b68-a7ef-990a09fb0e95/bb5e4736-30e2-4c8f-893c-c0c8c9d411b4.jpg" width="1603px" height="1920px" />
+        <zone ulx="933.318115234375" uly="136.33009338378906" lrx="933.318115234375" lry="49.811466217041016">
+          <line>
+            <add place="above">                            <hi rend="underline">Пѣснь пѣсней царя Cоломона</hi> .</add>
+            <add place="above">Да лобзаетъ меня лобзаниемъ устъ тсвоихъ –</add>
+            <add place="above">Перси твои приятнѣе вина и запахъ мѵра </add>
+            <add place="above">твоего лучше всѣхъ ароматъ – имя твое </add>
+            <add place="above">сладостно какъ излiанное мѵро. для того , 	</add>
+            <add place="above">                                 я</add>
+            <add place="above">юная возлюбила ты тебя| </add>
+            <add place="above">                                               Лобзай меня, твои лобзанья</add>
+            <add place="above">                                                Мнѣ слаще мѵра и вина</add>
+            <add place="above">                                             <del> Тобой</del><add place="above">                                       <del>во мнѣ  </del> в крови горитъ огонь</add> кипять <del>любви</del> желанья,</add>
+            <add place="above">                                                Душа тобой упоена;</add>
+            <add place="above">          <hi rend="underline">  въ  1821 </hi>                                                                     1822 </add>
+            <add place="above">Конецъ Кавказскаго плѣнника	                                 братьяразбойники</add>
+            <add place="above">Япережилъ                                                                Олегъ </add>
+            <add place="above">Кинжалъ				                                                                   Царь-Никита</add>
+            <add place="above">Чедаеву 	</add>
+            <add place="above">Чернильницѣ		                                     		                       Цензору</add>
+            <add place="above">3 элегiи				                                                                     Ѳ.   Т __ </add>
+            <add place="above">Алексѣеву				                                                               старайся соб..</add>
+            <add place="above">Наполеонъ				                                                               Гречанкѣ</add>
+            <add place="above">Овидiю</add>                  </line>
+        </zone>
+      </surface>
+    </surfaceGrp>
+  </sourceDoc>
+</TEI>
